@@ -53,23 +53,26 @@ are widely used now. There are algorithms that can generate the content we want 
 the feature learned from different objects. 
 </p>
 <p>
-However, there isn’t a successful improvement on producing a content with certain kind 
-of artistic style while humans or artists have mastered the skill. To solve this problem, 
-we would like to utilize the learning algorithm, Deep Neural Networks, to separate and 
-recombine different images and generate a new image with selected artistic style. 
+However, there isn’t a successful improvement on producing a content with certain kind of 
+artistic style while humans or artists have mastered the skill. To solve this problem, 
+we would like to utilize the learning algorithm, Deep Neural Networks, to extract and classify 
+different artistic styles; we would like to use it to separate and recombine different images 
+and generate a new image with selected artistic style as well. 
 </p>
 
 <h3>
 <a id="relatedwork" class="anchor" href="#relatedwork" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Related Work</h3>
 
 <p>
-Convolutional Neural Networks is a type of artificial neural networks where it consist 
-of layers of small computational units that process visual information hierarchically 
-in a feed-forward manner. Recent studies have shown that this machine learning technique 
-can produce promising results in image and video recognition applications 
-(Krizhevsky et al., 2012; Simonyan et al., 2014; Sermanet et al., 2014). 
-In addition to object recognition, (Gatys et al., 2015) had demonstrated that this 
-kind of neural networks have the ability to separate an image’s style from its content.
+Convolutional Neural Networks is a type of artificial neural networks where it 
+consist of layers of small computational units that process visual information 
+hierarchically in a feed-forward manner. Recent studies have shown that this machine 
+learning technique can produce promising results in image and video recognition 
+applications (Krizhevsky et al., 2012; Simonyan et al., 2014; Sermanet et al., 2014). 
+In addition to object recognition, (Gatys et al., 2015) had demonstrated that this kind 
+of neural networks have the ability to separate an image’s style from its content. 
+In this study, you can mimic the styles of some of history’s greatest painters by 
+merging an existing photograph with a painting.
 </p>
 
 
@@ -77,11 +80,12 @@ kind of neural networks have the ability to separate an image’s style from its
 <a id="solution" class="anchor" href="#solution" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Technical Part</h3>
 
 <p>
-We will use VGG convolutional neural network to extract content and 
-style in different images. We will apply the extracted style to the target 
-image by building the style representation on different subsets of neural 
-network layers. This will create images with the chosen style on an increasing 
-scale while discarding information of the global arrangement of the scene.
+We will use VGG convolutional neural network to extract content and style in different images. 
+The extracted feature of style images from VGG-network will be used to classify the input 
+artwork images to different artistes. Besides, we will apply the extracted style to the 
+target image by building the style representation on different subsets of neural network 
+layers. This will create images with the chosen style on an increasing scale while discarding 
+information of the global arrangement of the scene.
 </p>
 
 <h3>

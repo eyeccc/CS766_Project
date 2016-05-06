@@ -4,9 +4,9 @@ This project involves two parts of implementation:
 
 1. A Neural Algorithm of Artistic Style (http://arxiv.org/abs/1508.06576)
 
-2. blabla
+2. Style classification (based on several papers)
 
-For full information, please visit: http://eyeccc.github.io/CS766_Project/
+For full information, including reference, please visit: http://eyeccc.github.io/CS766_Project/ to check our reports.
 
 ## Part1. Generating stylish images 
 

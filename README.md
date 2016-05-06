@@ -1,9 +1,16 @@
 # CS766 Project
 
 This project involves two parts of implementation: 
-1. A Neural Algorithm of Artistic Style (http://arxiv.org/abs/1508.06576) and 2. (TBA)
 
-## Part1. A Neural Algorithm of Artistic Style
+1. A Neural Algorithm of Artistic Style (http://arxiv.org/abs/1508.06576)
+
+2. blabla
+
+For full information, please visit: http://eyeccc.github.io/CS766_Project/
+
+## Part1. Generating stylish images 
+
+Implementation for "A Neural Algorithm of Artistic Style"
 
 ### Dependency
 

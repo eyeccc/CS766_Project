@@ -7,10 +7,17 @@ This project involves two parts of implementation:
 
 ### Dependency
 
-Python package: Chainer v1.8.0 (http://chainer.org/), Numpy, Scipy.misc
+Chainer v1.8.0 (http://chainer.org/), Numpy, Scipy.misc
+
+### Convolutional Neural Network Model
+
 VGG19 caffe-model (https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md)
 
 ### Usage
+
+```
+python nn_art.py -s PATH_TO_STYLE_IMG -c PATH_TO_CONTENT_IMG
+```
 
 ## Part2. Blablabla
 

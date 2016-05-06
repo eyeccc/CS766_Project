@@ -7,6 +7,9 @@ This project involves two parts of implementation:
 
 ### Dependency
 
+Python package: Chainer v1.8.0 (http://chainer.org/), Numpy, Scipy.misc
+VGG19 caffe-model (https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md)
+
 ### Usage
 
 ## Part2. Blablabla

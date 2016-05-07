@@ -26,7 +26,7 @@ VGG19 caffe-model (https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-r
 python nn_art.py -s PATH_TO_STYLE_IMG -c PATH_TO_CONTENT_IMG
 ```
 
-<<<<<<< HEAD
+=======
 ## Part2. Style Classification
 1. feature.xlsx contains all the paintings' features and its labels.
 2. readFile.py read the feature.xlsx file and is used to generate training and testing set.
@@ -44,14 +44,4 @@ scikit-learn, Numpy, openpyxl. To make things easier, you can download the Anaco
 python Classify.py 
 ```
 
-=======
-## Part2. Style classification
 
-### Dependency
-
-tbd
-
-### Usage
-
-tbd
->>>>>>> 00f0869cd1169928cda257c2f490855340e8ed61

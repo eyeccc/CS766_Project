@@ -1,0 +1,165 @@
+'poppies at argenteuil.jpg'
+Label: , Monet
+
+'Tree-Roots-and-Trunks.jpg'
+Label: , Vangogh
+
+'poppy field in a hollow near giverny.jpg'
+Label: , Monet
+
+'Thatched-Cottages-at-Cordeville.jpg'
+Label: , Vangogh
+
+'Plain-Near-Auvers.jpg'
+Label: , Vangogh
+
+'Plaster-Statuette-of-a-Female-Torso2.jpg'
+Label: , Vangogh
+
+'water-lilies7.jpg'
+Label: , Monet
+
+'the willows of vetheuil.jpg'
+Label: , Monet
+
+'still life with pheasant.jpg'
+Label: , Monet
+
+'bouquet of sunflowers.jpg'
+Label: , Monet
+
+'poplars on the banks of the river epte in the autumn.jpg'
+Label: , Monet
+
+'the artists family in the garden.jpg'
+Label: , Monet
+
+'the garden at montgeron.jpg'
+Label: , Monet
+
+'Trinquetaille-Bridge,-The.jpg'
+Label: , Vangogh
+
+'Pollard-Willows.jpg'
+Label: , Vangogh
+
+'water-lilies6.jpg'
+Label: , Monet
+
+'impression sunrise.jpg'
+Label: , Monet
+
+'Portrait-of-the-Postman-Joseph-Roulin.jpg'
+Label: , Vangogh
+
+'Sunny-Lawn-in-a-Public-Park.jpg'
+Label: , Vangogh
+
+'lunch on the grass.jpg'
+Label: , Monet
+
+'grainstack, sun in the mist.jpg'
+Label: , Monet
+
+'Three-Sunflowers-in-a-Vase.jpg'
+Label: , Vangogh
+
+'Pink-Peach-Tree-in-Blossom-(Reminiscence-of-Mauve).jpg'
+Label: , Vangogh
+
+'garden atveheuil.jpg'
+Label: , Monet
+
+'grainstack at sunset.jpg'
+Label: , Monet
+
+'Two-Poplars-on-a-Road-Through-the-Hills.jpg'
+Label: , Vangogh
+
+'the esterl mountains.jpg'
+Label: , Monet
+
+'Three-White-Cottages-in-Saintes-Maries.jpg'
+Label: , Vangogh
+
+'vase of poppies.jpg'
+Label: , Monet
+
+'irises in monets garden.jpg'
+Label: , Monet
+
+'chrysanthemums.jpg'
+Label: , Monet
+
+'the dahlias.jpg'
+Label: , Monet
+
+'the lunch.jpg'
+Label: , Monet
+
+'water-lilies.jpg'
+Label: , Monet
+
+'regata at argenteuil.jpg'
+Label: , Monet
+
+'le pave de chailly.jpg'
+Label: , Monet
+
+'water-lilies2.jpg'
+Label: , Monet
+
+'Still-Life_-Vase-with-Oleanders.jpg'
+Label: , Vangogh
+
+'Still-Life_-Vase-with-Rose-Mallows.jpg'
+Label: , Vangogh
+
+'the magpie.jpg'
+Label: , Monet
+
+'Two-Cut-Sunflowers1887.jpg'
+Label: , Vangogh
+
+'water-lily pond4.jpg'
+Label: , Monet
+
+'Two-Peasant-Women-Digging-in-Field-with-Snow.jpg'
+Label: , Vangogh
+
+'Still-Life_-Red-Poppies-and-Daisies.jpg'
+Label: , Vangogh
+
+'Tarascon-Diligence.jpg'
+Label: , Vangogh
+
+'Still-Life_-Glass-with-Wild-Flowers.jpg'
+Label: , Vangogh
+
+'water-lily pond3.jpg'
+Label: , Monet
+
+'Two-Rats.jpg'
+Label: , Vangogh
+
+'Thatched-Cottages.jpg'
+Label: , Vangogh
+
+'flowers at vetheuil.jpg'
+Label: , Monet
+
+'Ploughed-Field.jpg'
+Label: , Vangogh
+
+'the artist house at argenteuil.jpg'
+Label: , Monet
+
+'water-lilies4.jpg'
+Label: , Monet
+
+'jerusalem artichoke flowers.jpg'
+Label: , Monet
+
+'water-lily pond.jpg'
+Label: , Monet
+

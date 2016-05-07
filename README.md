@@ -26,8 +26,12 @@ VGG19 caffe-model (https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-r
 python nn_art.py -s PATH_TO_STYLE_IMG -c PATH_TO_CONTENT_IMG
 ```
 
-## Part2. Blablabla
+## Part2. Style classification
 
 ### Dependency
 
+tbd
+
 ### Usage
+
+tbd
